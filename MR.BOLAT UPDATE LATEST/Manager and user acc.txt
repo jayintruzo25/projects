@@ -1,0 +1,7 @@
+manager: 
+admin_jayz
+admin123
+
+customer: 
+jayz.69
+123456

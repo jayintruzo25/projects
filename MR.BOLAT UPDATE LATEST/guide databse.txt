@@ -1,0 +1,5 @@
+put Online-Food-Order into xammp/htdocs
+
+data base name - foodorder
+
+import database name found in the folder - foodorder.sql
